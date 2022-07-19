@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá sou um programador jr.👋
+
+<div align="center" display="flex" flex-direction="row"><a href="https://www.linkedin.com/in/davidclay-araujo-dick-648b39218/?originalSubdomain=br" target="_blank" rel="nofollow"><img align="center" alt="Meu LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
+</div>
+
 
 <div display= "flex" align="center">
 <a href="https://github.com/Davidclay99">
